@@ -1,0 +1,8 @@
+plotly==4.6.0
+numpy==1.18.2
+seaborn==0.10.0
+Keras==2.3.1
+matplotlib==3.2.1
+pandas==1.0.3
+streamlit==0.57.3
+tensorflow-cpu==2.1.0
