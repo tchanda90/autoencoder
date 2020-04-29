@@ -8,3 +8,9 @@ The number of neurons in the middle layers are usually set to be fewer than the 
 ![](https://www.pyimagesearch.com/wp-content/uploads/2020/02/keras_autoencoders_applications.png)
 
 Application areas include Anomaly Detection, Image Denoising, etc.
+
+
+### Instructions
+To run the app, the streamlit package needs to be installed. Download the repository and install from requirements.txt, then run the following command to start a local streamlit app session.
+
+`streamlit run app.py`
